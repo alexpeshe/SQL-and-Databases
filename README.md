@@ -13,6 +13,18 @@ Either in a form of screenshots or files e.g. Jupyter, or SQL extracts.
 
 PDF files, such as research papers, books, or project documentation
 
+# Tools used:
+
+Mainly but not limited to the following:
+
+- PGadmin & PSQL
+
+- Azure Data Studio, SQL Server & TSQL
+
+- MySQL Workbench & Server (Previously)
+
+- SQLite
+
 # Documentation
 README.md: A markdown file providing an overview of the project, setup instructions, and usage guidelines
 Additional markdown files explaining specific aspects of the project
