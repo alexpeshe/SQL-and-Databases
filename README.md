@@ -25,6 +25,13 @@ Mainly but not limited to the following:
 
 - SQLite
 
+
+ # Free Code Camp certifications and projects:
+
+- Relational Databases
+
+  
+
 # Documentation
 README.md: A markdown file providing an overview of the project, setup instructions, and usage guidelines
 Additional markdown files explaining specific aspects of the project
