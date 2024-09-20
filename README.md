@@ -18,6 +18,8 @@ PDF files, such as research papers, books, or project documentation
 
 - Practical SQL: A Beginner's Guide to Storytelling with Data
 
+- E - Books & Cheet sheets
+
 Link:
 
 https://github.com/anthonydb/practical-sql
