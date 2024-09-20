@@ -67,7 +67,26 @@ https://github.com/openfootball/awesome-football
 Geo-spacial datasets:
 https://github.com/planetopendata/awesome-world
 
+# SQLite Schemas
 
+- Ready-to-Use (Instant) Database Schemas
+
+football.db (github: openfootball/schema.sql) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
+
+beer.db (github: openbeer/schema.sql) - beer, brand, brewery, etc.
+
+Chinook Database (codeplex: chinookdatabase), (chinook.sqlite Download) - online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the 
+
+"classic" Microsoft Northwind database
+Northwind.db (github: jpwhite3/northwind-SQLite3, Swift pkg: NorthwindSQLite.swift) - food store (customers, products, orders, employees, suppliers, ...) with sample data; port of the "classic" Microsoft Northwind database
+
+SQLite Web Service (JSON API) Publishers / Containers
+
+- Turn your Database into Ready-to-Use (Instant) Online Web Services (JSON APIs) w/ Query Language (QL)
+
+Datasette (github: simonw/datasette) by Simon Willison - an instant JSON API for your SQLite databases
+
+SQLPage (github: lovasoa/sqlpage) - build dynamic websites entirely in SQL on top of SQLite databases
 
 
 # Sample Databases to practice analytics in SQLite, PosgreSQL, SQL Server and so on.
@@ -138,6 +157,28 @@ https://offshoreleaks-data.icij.org/offshoreleaks/neo4j/guide/datashape.html
 - sakila-sqlite3-main DB -  Online DVD rental
 
 
+- Employees Database:
+
+Link:
+
+https://github.com/fracpete/employees-db-sqlite 
+
+
+- SportsDB Sample Database:
+
+Link:
+
+https://github.com/yugabyte/yugabyte-db/wiki/SportsDB-Sample-Database
+
+- Airlines Sample Database:
+
+Link:
+
+https://github.com/prameshstha/airline-database
+
+
+
+
 # PostgreSQL sample database
 
 - Massive IMDb database:
@@ -175,6 +216,52 @@ https://github.com/catherinedevlin/opensourceshakespeare
 Link:
 
 https://musicbrainz.org/doc/MusicBrainz_Database/Download
+
+
+# SQL Server Sample Databases:
+
+
+- Microsoft SQL samples:
+
+Link:
+
+https://learn.microsoft.com/en-us/sql/samples/sql-samples-where-are?view=sql-server-ver16
+
+
+- Banking Sample Database:
+
+Link:
+
+https://github.com/panaitescu-paul/Bank-Database-SQL-2020 
+
+For MYSQL: https://github.com/haggarw3/sql-bank-data
+
+
+# Misc
+
+
+- School database model:
+
+Link:
+
+https://github.com/OrnellaFanais/SQL-DB
+
+
+- TravelAgencyProjectDB:
+
+Link:
+
+https://github.com/Ladydiana/TravelAgencyProjectDB
+
+
+- MovieLens data and database:
+
+Link:
+
+https://github.com/ankane/movielens.sql
+
+https://github.com/ivelten/MovieLens
+
 
 
 # PostgreSQL Sample Databases ready to use:
