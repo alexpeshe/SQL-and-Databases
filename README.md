@@ -1,6 +1,8 @@
 # SQL-and-Database-exercises-
 
+
 - This repository contains all  books, cheat sheets, general learning materials, coding files and snippets.
+
 
 # Code Files
 
@@ -8,6 +10,7 @@ The repository would contain all the source code files, including:
 - SQL Scripts
 
 Either in a form of screenshots or files e.g. Jupyter, or SQL extracts.
+
 
 # Resources
 
@@ -18,6 +21,7 @@ PDF files, such as research papers, books, or project documentation
 Link:
 
 https://github.com/anthonydb/practical-sql
+
 
 # Tools used:
 
@@ -30,6 +34,17 @@ Mainly but not limited to the following:
 - MySQL Workbench & Server (Previously)
 
 - SQLite
+
+- DBeaver
+
+
+# DBeaver
+
+- Universal Database Tool:
+
+Link:
+
+https://dbeaver.io/
 
 
 # PostgreSQL - Free Code Camp certifications and projects:
@@ -145,6 +160,22 @@ Link:
 
 https://postgrespro.com/docs/postgrespro/12/demodb-bookings 
 
+- PgFoundry project
+
+Link: 
+
+https://www.postgresql.org/ftp/projects/pgFoundry/
+
+- OpensourceShakespeare
+
+https://github.com/catherinedevlin/opensourceshakespeare
+
+- MusicBrainz Database
+
+Link:
+
+https://musicbrainz.org/doc/MusicBrainz_Database/Download
+
 
 # PostgreSQL Sample Databases ready to use:
 
@@ -153,18 +184,30 @@ copy of https://www.postgresql.org/ftp/projects/pgFoundry/dbsamples/
 - A collection of sample databases for PostgreSQL.
 
 Adventureworks - OLTP database for a fictitious, multinational manufacturing company called Adventure Works Cycles
+
 Chinook - digital media store
+
 French Towns - all French towns and regions
+
 ISO-3166 - All countries and subcountries in the world
+
 Pagila - Movie rental database with actors, ratings, payments, etc.
+
 Role Based Access Control - authentication solution
+
 USDA - food database
-Northwind DB for PSQL - Trading and inventory management
+
+Northwind DB for PSQL - Trading and inventory management: https://github.com/pthom/northwind_psql?tab=readme-ov-file 
+
 World - Cities, Countries, and what language they speak
+
 DVD Rental DB
+
 Other Resources
 
 http://www.databaseanswers.org/data_models/
+
+https://github.com/morenoh149/postgresDBSamples 
 
 # SQL Server sample databases
 
