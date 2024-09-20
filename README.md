@@ -181,13 +181,34 @@ https://github.com/prameshstha/airline-database
 
 # PostgreSQL sample database
 
+
+- AdventureWorks for PostgreSQL:
+
+Link:
+
+https://github.com/lorint/AdventureWorks-for-Postgres
+
+
+- Employees for PSQL:
+
+Link:
+
+https://github.com/vrajmohan/pgsql-sample-data/tree/master/employee
+
+
 - Massive IMDb database:
 
-Link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2QYZBT 
+Link:
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2QYZBT 
+
 
 - PostgreSQL list of sample databases:
 
+Link:
+
 https://wiki.postgresql.org/wiki/Sample_Databases 
+
 
 - Postgres sample data for learning:
 
@@ -195,11 +216,13 @@ Link:
 
 https://neon.tech/docs/import/import-sample-data
 
+
 - PSQL Airlines Sample Database:
 
 Link:
 
 https://postgrespro.com/docs/postgrespro/12/demodb-bookings 
+
 
 - PgFoundry project
 
@@ -207,9 +230,13 @@ Link:
 
 https://www.postgresql.org/ftp/projects/pgFoundry/
 
+
 - OpensourceShakespeare
 
+Link:
+
 https://github.com/catherinedevlin/opensourceshakespeare
+
 
 - MusicBrainz Database
 
