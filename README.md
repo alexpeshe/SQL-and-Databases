@@ -7,6 +7,7 @@
 # Code Files
 
 The repository would contain all the source code files, including:
+
 - SQL Scripts
 
 Either in a form of screenshots or files e.g. Jupyter, or SQL extracts.
@@ -16,9 +17,9 @@ Either in a form of screenshots or files e.g. Jupyter, or SQL extracts.
 
 PDF files, such as research papers, books, or project documentation
 
-- Practical SQL: A Beginner's Guide to Storytelling with Data
-
 - E - Books & Cheet sheets
+
+- Practical SQL: A Beginner's Guide to Storytelling with Data
 
 Link:
 
@@ -29,7 +30,7 @@ https://github.com/anthonydb/practical-sql
 
 Mainly but not limited to the following:
 
-- PGadmin & PSQL
+- PGAdmin & PSQL
 
 - Azure Data Studio, SQL Server & TSQL
 
@@ -49,9 +50,10 @@ Link:
 https://dbeaver.io/
 
 
-# PostgreSQL - Free Code Camp certifications and projects:
+# Free Code Camp certifications and projects:
 
-- Relational Databases
+
+# Relational Databases with PostgreSQL
 
 
 
@@ -297,6 +299,7 @@ https://github.com/ivelten/MovieLens
 
 # PostgreSQL Sample Databases ready to use:
 
+
 copy of https://www.postgresql.org/ftp/projects/pgFoundry/dbsamples/
 
 - A collection of sample databases for PostgreSQL.
@@ -327,12 +330,46 @@ http://www.databaseanswers.org/data_models/
 
 https://github.com/morenoh149/postgresDBSamples 
 
+
 # SQL Server sample databases
+
+All Previous Databases can be exported to SQL server, MySQL and vice versa
 
 
 # Build your own database challenge
 
 https://app.codecrafters.io/courses/sqlite/overview 
+
+
+# Shema and Data Migration
+
+- Migrating from SQLite to PostgreSQL:
+
+https://stackoverflow.com/questions/4581727/how-to-convert-sqlite-sql-dump-file-to-postgresql
+
+- Exporting SQLite to SQL Server:
+
+https://stackoverflow.com/questions/163079/exporting-from-sqlite-to-sql-server
+
+- Migrating PSQL to SQL Server:
+
+https://stackoverflow.com/questions/6563846/how-to-migrate-a-postgresql-database-into-a-sqlserver-one 
+
+- Migrating SQLite to MySQL:
+
+https://stackoverflow.com/questions/18671/quick-easy-way-to-migrate-sqlite3-to-mysql
+
+https://hevodata.com/learn/sqlite-to-mysql/
+
+- Migrating PSQL to MySQL:
+
+https://stackoverflow.com/questions/5909223/migrate-database-from-postgres-to-mysql
+
+- Migrating SQL Server to MySQL:
+
+https://stackoverflow.com/questions/3917081/how-to-export-sql-server-database-to-mysql
+
+https://www.vinchin.com/webinar.html
 
 
 # Documentation
