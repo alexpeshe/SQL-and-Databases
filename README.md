@@ -90,6 +90,8 @@ Datasette (github: simonw/datasette) by Simon Willison - an instant JSON API for
 
 SQLPage (github: lovasoa/sqlpage) - build dynamic websites entirely in SQL on top of SQLite databases
 
+employees.db: https://github.com/fracpete/employees-db-sqlite
+
 
 # Sample Databases to practice analytics in SQLite, PosgreSQL, SQL Server and so on.
 
