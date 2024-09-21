@@ -25,6 +25,222 @@ Link:
 
 https://github.com/anthonydb/practical-sql
 
+# Database Star Resources:
+
+- SQL Cheat Sheets
+
+A range of cheat sheets that describe common features, keywords, and functions within SQL.
+
+Oracle
+SQL Server
+MySQL
+Postgres
+SQL Data Types Cheat Sheets
+
+- A range of cheat sheets that list all data types available in different databases and what they are used for.
+
+
+Oracle
+SQL Server
+MySQL
+Postgres
+SQL JSON Cheat Sheets
+
+- A range of cheat sheets that list some common functionality and features for using JSON in an SQL Database.
+
+
+Postgres
+SQL Pivot Cheat Sheets
+
+- A range of cheat sheets that list some common functionality and features for pivoting and unpivoting data in an SQL database.
+
+
+MySQL
+SQL Function Cheat Sheets
+
+- A range of cheat sheets that list different functions and what they do in various databases.
+
+
+Oracle
+SQL Editor Cheat Sheets
+
+- A range of cheat sheets that list different features and shortcuts for various SQL editors.
+
+
+pgAdmin
+Oracle SQL Developer Quick Start Guide
+Oracle SQL Developer Keyboard Shortcuts
+Oracle SQL Developer Time Saver Guide
+SQL Boolean Cheat Sheet
+
+- A cheat sheet for implementing and using the boolean concept in SQL databases.
+
+
+Docker Database Cheat Sheet
+
+- A cheat sheet for remembering the Docker commands for working with database images and containers.
+
+
+PDF Guides
+3 Examples of Database Normalisation
+
+- Three different examples of the database normalisation process, from start to finish.
+
+
+Database Modelling Tools Spreadsheet
+
+- A spreadsheet that contains all of the database modelling tools in a filterable spreadsheet
+
+
+Database Normalisation Checklist
+
+- A list of things to check to help you normalise your database design.
+
+
+6 Examples of Joins
+
+- Examples of SQL queries that use joins to help you understand the concepts of joining tables.
+
+
+Index Analysis Guide
+
+- A step-by-step guide on how to work out if each column in a query is suitable for an index.
+
+
+Index Creation Flowchart
+
+- A flowchart to help you know when and what type of index to create.
+
+
+Execution Plan Guide
+
+- A range of guides to execution plans for different databases, to help you understand the terminology and when they are used.
+
+
+Oracle
+SQL Server
+MySQL
+Postgres
+Database Design Guides
+
+- A range of database design guides for different domains: an ERD, table and column definitions, and SQL scripts.
+
+
+AirBNB
+eCommerce website
+Train booking system
+Hotel booking system
+Online course system
+eCommerce Products (and the SQL scripts are here)
+Movie theatre booking (and the SQL scripts are here)
+Oracle Certified Associate Practice Questions (1Z0-071)
+
+- A set of practice questions for the Oracle Certified Associate exam.
+
+
+SQL Editor Comparison List
+
+- A PDF that lists many SQL editors and how they compare to each other.
+
+
+
+SQL Interview Questions and Answers
+
+- A PDF that lists many SQL interview questions and answers.
+
+
+
+PL/SQL Tutorial
+
+- A PDF that contains the PL/SQL tutorial all in a single file.
+
+
+
+SQL Best Practices & Style Guide
+
+- A PDF with a range of SQL best practices and style tips.
+
+
+
+Time Saver Guide
+
+- A PDF checklist to help you find time to learn during your week.
+
+
+
+SSMS Quick Reference Guide
+
+- A PDF guide with a range of shortcuts and tips for working with SSMS (SQL Server Management Studio).
+
+
+
+Data Analysis Project Guides
+
+- A PDF to help you prepare the data, with a list of questions, and Select queries to answer those questions.
+
+Population Analysis (from this YouTube video)
+Car Sales Analysis (from this YouTube video)
+Olist eCommerce
+PDF of Posts
+
+- A range of PDF versions for different blog posts.
+
+
+
+Oracle JSON Guide
+SQL Server JSON Guide
+MySQL JSON Guide
+Postgres JSON Guide (coming soon)
+Scripts
+Calendar Table
+
+- A collection of SQL scripts for creating a calendar table, to help you report on dates and to simplify your date logic.
+
+
+Oracle
+SQL Server
+MySQL
+Postgres
+Oracle How-To Kit
+
+- A collection of SQL scripts for achieving different results in an Oracle database.
+
+
+Useful Data Dictionary Queries
+
+- A collection of SQL queries that are useful to find information from the data dictionary.
+
+
+
+Oracle
+Constraints SQL Queries
+
+- A collection of SQL queries for constraints with examples.
+
+
+Subquery SQL Queries
+
+- A collection of SQL queries for subqueries with examples.
+
+
+- Introduction to Oracle SQL scripts
+
+- A collection of SQL scripts used in the Introduction to Oracle SQL series.
+
+
+create user.sql – the script used to create the user on the database
+sample data.sql – creates and populates the tables
+viewing data.sql – SELECT, WHERE, and DISTINCT
+more operators.sql – IN, ANY, ALL, and BETWEEN
+order.sql – ORDER BY
+set operators.sql – UNION, UNION ALL, INTERSECT, and MINUS
+aggregate functions.sql – Aggregate functions (COUNT, SUM, AVG, MIN, MAX), GROUP BY, and HAVING
+aliases and joins.sql – Table aliases, column aliases, and joins
+functions.sql – String, number, and date functions
+subqueries.sql – Subqueries
+data edit.sql – INSERT, UPDATE, DELETE, COMMIT, and TRUNCATE
+table.sql – CREATE, ALTER, and DROP a table
+
 
 # Tools used:
 
