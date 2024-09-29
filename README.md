@@ -40,7 +40,6 @@ SQL Data Types Cheat Sheets
 - A range of cheat sheets that list all data types available in different databases and what they are used for.
 
 
-Oracle
 SQL Server
 MySQL
 Postgres
@@ -248,7 +247,7 @@ Mainly but not limited to the following:
 
 - PGAdmin & PSQL
 
-- Azure Data Studio, SQL Server & TSQL
+- SQL Server & TSQL
 
 - MySQL Workbench & Server (Previously)
 
