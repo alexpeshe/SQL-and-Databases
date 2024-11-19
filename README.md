@@ -1,7 +1,8 @@
 # SQL-and-Database-exercises-
 
 
-- This repository contains all  books, cheat sheets, general learning materials, coding files and snippets.
+- This repository contains all  books, cheat sheets, general learning materials, coding files and snippets. As well as, link to Hackerrank profile when solving challanges.
+
 
 
 # Code Files
